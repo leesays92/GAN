@@ -1,4 +1,4 @@
 # GAN
-# Table of Contents
+## Table of Contents
 
-** Generative Adversarial Networks
+* Generative Adversarial Networks
